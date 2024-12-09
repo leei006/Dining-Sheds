@@ -481,7 +481,6 @@ body {
    background-color: #E73824;
    border: solid 2px white;
    border-radius: 50px;
-   cursor: pointer;
    transition: background-color 0.3s ease;
 }
 
